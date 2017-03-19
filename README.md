@@ -2,4 +2,4 @@
 a project #2
 
 Creating a new branch is quick and simple.
-New info is added.
+New info is added to this file.

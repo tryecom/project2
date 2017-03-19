@@ -1,3 +1,4 @@
 # project2
 a project #2
-Creating a new branch is quick & Simple.
+
+Creating a new branch is quick and simple.
